@@ -1,0 +1,9 @@
+shoppinglist\entity\DaftarBelanja.class
+shoppinglist\entity\DaftarBelanjaDetilId.class
+shoppinglist\repository\DaftarBelanjaRepo.class
+shoppinglist\DemoShoppingListSpringBootApplication.class
+shoppinglist\http\ShoppingDataCreateDto.class
+shoppinglist\http\ShoppingDataCreateDto$DataBarang.class
+shoppinglist\http\ShoppingListCtrl.class
+shoppinglist\entity\DaftarBelanjaDetil.class
+shoppinglist\service\ShoppingListService.class
